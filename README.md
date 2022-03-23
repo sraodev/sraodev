@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 ___
 ![Srinivas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sraodev&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sraodev&layout=compact&theme=radical)
+
+### :writing_hand: Blog Posts
