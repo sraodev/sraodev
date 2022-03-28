@@ -19,9 +19,15 @@ Here are some ideas to get you started:
 ### :hammer_and_wrench: Technology Stack
 
 
-### :fire: My GitHub Stats
-___
+### 📈 My GitHub Stats
+---
 ![Srinivas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sraodev&show_icons=true&theme=radical)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sraodev&layout=compact&theme=radical)
+
+### :fire: GitHub Streak
+___
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sraodev&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### :writing_hand: Blog Posts
