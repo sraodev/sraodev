@@ -18,16 +18,18 @@ Here are some ideas to get you started:
 
 ### :hammer_and_wrench: Technology Stack
 
+## 📈 My GitHub Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sraodev&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sraodev&layout=compact&theme=radical" />
+</a>
 
-### 📈 My GitHub Stats
----
-![Srinivas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sraodev&show_icons=true&theme=radical)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sraodev&layout=compact&theme=radical)
 
 ### :fire: GitHub Streak
-___
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sraodev&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### :writing_hand: Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
