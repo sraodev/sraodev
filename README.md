@@ -1,5 +1,5 @@
-<h2> Hey 👋  I'm Srinivas Rao </h2>
-
+<h2> Hey 👋,  I'm Srinivas Rao </h2>
+<br>
 I'm a Principal Engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. I do content on Design and Development.  I really enjoy learning languages and frameworks like Flutter and React Native, as well as work in Medium. I also enjoy wireframing, ui, ux, and design in general.
 
  <h2>  </h2>
@@ -10,9 +10,6 @@ I'm a Principal Engineer who is passionate about making contributing to open-sou
 - 💬 Ask me about Programming or Machine Learning or Internet Of Things
 - 📫 I am also a technical writer at Medium
 
- <h2> 🌎 Find me around the web</h2>
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/psrrao/) [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/sraodev)
 
 
 <h2> :writing_hand: Blog Posts  </h2>
@@ -32,4 +29,8 @@ I'm a Principal Engineer who is passionate about making contributing to open-sou
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
  </p>
+
+ <h2> 🌎 Connect with me:</h2>
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/psrrao/) [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/sraodev)
 
