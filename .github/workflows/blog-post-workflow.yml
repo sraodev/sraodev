@@ -9,6 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: sraodev/blog-post-workflow@master
+      - uses: sraodev/sraodev@master
         with:
           feed_list: "https://medium.com/@srinivasrao.in"
