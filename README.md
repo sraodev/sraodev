@@ -13,7 +13,8 @@ I'm a Principal Engineer who is passionate about making contributing to open-sou
 
 <h2>Blog Posts :writing_hand: </h2>
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
+<!-- BLOG-POST-LIST:END --> 
 
 
 <h2>Technology Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
