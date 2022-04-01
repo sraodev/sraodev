@@ -1,14 +1,14 @@
-<h2> Hey 👋,  I'm Srinivas Rao </h2>
+<h2> Hey thereWe <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>,&nbsp;I'm Srinivas Rao </h2>
 <br>
 I'm a Principal Engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. I do content on Design and Development.  I really enjoy learning languages and frameworks like Flutter and React Native, as well as work in Medium. I also enjoy wireframing, ui, ux, and design in general.
 
  <h2>  </h2>
  
-- 🔭 I’m currently working on front-end, back-end and IoT projects.
-- 👯 I’m looking to collaborate on front-end, back-end, IoT, machine Learning and deep-learning projects
-- 🤝 I’m looking for help with Backend Design
-- 💬 Ask me about Programming or Machine Learning or Internet Of Things
-- 📫 I am also a technical writer at Medium
+- 🔭 &nbsp;I’m currently working on front-end, back-end and IoT projects.
+- 👯 &nbsp;I’m looking to collaborate on front-end, back-end, IoT, machine Learning and deep-learning projects
+- 🤝 &nbsp;I’m looking for help with Backend Design
+- 💬 &nbsp;Ask me about Programming or Machine Learning or Internet Of Things
+- 📫 &nbsp;I am also a technical writer at Medium
 
 
 <h2>Blog Posts :writing_hand: </h2>
