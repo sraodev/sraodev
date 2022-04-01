@@ -1,4 +1,4 @@
-<h2> Hey there<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>,&nbsp;I'm Srinivas Rao </h2>
+<h2>Namaskar 🙏 &nbsp;I'm Srinivas Rao  </h2>
 <br>
 I am a Full Stack Developer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. I do content on Design and Development.  I really enjoy learning languages and frameworks like Flutter and React Native, as well as work in Medium. I also enjoy wireframing, ui, ux, and design in general.
 
