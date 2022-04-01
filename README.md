@@ -13,7 +13,8 @@ I'm a Principal Engineer who is passionate about making contributing to open-sou
 
 <h2>Blog Posts :writing_hand: </h2>
 <!-- BLOG-POST-LIST:START -->
-
+- [Raspberry Pi Headless Setup via Ethernet Cable](https://medium.com/@srinivasrao.in/raspberry-pi-headless-setup-via-ethernet-cable-7774d7a19f9a?source=rss-c68ee6a8a092------2)
+- [Booting ARM Linux on MPCore](https://medium.com/@srinivasrao.in/booting-arm-linux-on-mpcore-95db62dabf50?source=rss-c68ee6a8a092------2)
 <!-- BLOG-POST-LIST:END --> 
 
 
