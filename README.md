@@ -4,7 +4,7 @@ I am a Full Stack Developer who is passionate about making contributing to open-
 
 <h2>  </h2>
  
-- 🔭 &nbsp;I’m currently working on front-end, back-end and IoT projects.
+- 🔭 &nbsp;I’m currently working on something cool projects.
 - 👯 &nbsp;I’m looking to collaborate on front-end, back-end, IoT, machine Learning and deep-learning projects
 - 🤝 &nbsp;I’m looking for help with Backend Design
 - 💬 &nbsp;Ask me about Programming or Machine Learning or Internet Of Things
