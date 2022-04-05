@@ -26,6 +26,7 @@ I am a Full Stack Developer who is passionate about making contributing to open-
 <h2>:writing_hand:&nbsp;Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [The Android Booting process from Power On](https://medium.com/@srinivasrao.in/the-android-booting-process-from-power-on-c47ecbe60f03?source=rss-c68ee6a8a092------2)
 - [Raspberry Pi Headless Setup via Ethernet Cable](https://medium.com/@srinivasrao.in/raspberry-pi-headless-setup-via-ethernet-cable-7774d7a19f9a?source=rss-c68ee6a8a092------2)
 - [Booting ARM Linux on MPCore](https://medium.com/@srinivasrao.in/booting-arm-linux-on-mpcore-95db62dabf50?source=rss-c68ee6a8a092------2)
 <!-- BLOG-POST-LIST:END --> 
