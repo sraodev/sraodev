@@ -55,21 +55,6 @@ Experienced in Embedded Software Design and Development of Applications, PaaS, M
 
 Strong in C/C++, System Programming, Platform development, OS fundamentals, Data structures and Linux internals.
 
-- Experience in Infrastructure software development for cloud and on-premise in Security, Identity and Access Management domains
-- Deep understanding of distributed systems, scalable architectures and Microservices
-- Passionate about building scalable, reliable and high-performing applications
-- Competent in Solution Architecture and Design
-- Technical knowledge of container management (Docker, Kubernetes), real-time data processing, data gathering and analytics.
-- Strong computer science engineering background and analytical skills
-- Enthusiastic about continuous learning, sharing and blogging
-- Experience in product/platform/mobile handset commercialisation.
-- Experience in Embedded Linux BSP, and Linux device drivers
-- Experience in network protocols, socket programming and awareness of network concepts.
-- Excellent communication and technical leadership skills to work with a remote team.
-- Experience with standard Linux distributions like Ubuntu and integration of device drivers (both open source and closed source).
-- Experience with the latest Linux kernel changes.
-- Known for excellent troubleshooting skills – able to analyze code and engineer well-researched, cost-effective and responsive solutions.
-
 </details>
 
 
