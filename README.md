@@ -1,4 +1,4 @@
-<h2>Hey 🙏 &nbsp;I'm Srinivas Rao  </h2>
+<h2>Hey 🙏 &nbsp;I'm Sri  </h2>
 <br>
 I am a Full Stack Developer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. I do content on Design and Development.  I really enjoy learning languages and frameworks like Flutter and React Native, as well as work in Medium. I also enjoy wireframing, ui, ux, and design in general.
 
