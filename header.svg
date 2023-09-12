@@ -1,0 +1,161 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+
+      <style>
+        body {
+  background: radial-gradient(circle at 33% 100%, #FED373 4%, #F15245 30%, #D92E7F 62%, #9B36B7 85%, #515ECF);
+  font-family: 'Inter', sans-serif;
+  font-size: 4rem;
+  text-shadow: 1px 1px 5px rgba(0,0,0,0.5);
+  fill: #fff;
+  display: flex;
+  
+}
+
+div.text-odometer-root {
+/*   background-color: pink; */
+  width: fit-content;
+  margin: 1rem auto 0;
+  display: flex;
+  height: 3.6em;
+}
+
+div.text-odometer-container {
+/*   background-color: yellow; */
+  text-align: right;
+  height: 3.6em;
+  overflow-y: hidden;
+/*   -webkit-mask-image: -webkit-gradient(linear, left 90%, left bottom, from(rgba(0,0,0,1)), to(rgba(0,0,0,0))); */
+  
+}
+
+@keyframes shiftDown {
+  0% { 
+    transform: translate(0, 0)
+  }
+  3% {
+    transform: translate(0, 0);
+    animation-timing-function: ease-out;
+  }
+  30% {
+    transform: translate(0, 1.2em) ;
+    animation-timing-function: ease-in;
+  }
+  36% { 
+    transform: translate(0, 1.2em);
+    animation-timing-function: ease-out;
+  }
+  63% { 
+    transform: translate(0, 2.4em);
+    animation-timing-function: ease-in;
+  }
+  69% { 
+    transform: translate(0, 2.4em);
+    animation-timing-function: ease-out;
+  }
+  97% {
+    transform: translate(0, 3.6em);
+    animation-timing-function: ease-in;
+  }
+  100% {
+    transform: translate(0, 3.6em) 
+  }
+}
+
+div.text-odometer-textWrapper {
+  position: relative;
+  top: -3.61em;
+  animation: shiftDown 3s infinite;
+}
+
+div.text-odometer-container div{
+  color: white;
+  text-shadow:
+   -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
+}
+
+@keyframes text-fifth {
+  0% {color: black;}
+  15% {color: white;}
+  100% {color: white;}
+}
+
+div.odometer-text.fifth {
+  color: black;
+  animation: text-sixth 3s infinite;
+}
+
+@keyframes text-second {
+  0% {color: white;}
+  81% {color: white;}
+  100% {color: black;}
+}
+
+div.odometer-text.second {
+  animation: text-second 3s infinite;
+}
+
+@keyframes text-fourth {
+  12% {color: white;}
+  30% {color: black;}
+  36% {color: black;}
+  56% {color: white;}
+}
+
+div.odometer-text.fourth {
+  animation: text-fourth 3s infinite;
+}
+
+@keyframes text-third {
+  46% {color: white;}
+  64% {color: black;}
+  72% {color: black;}
+  91% {color: white;}
+}
+div.odometer-text.third {
+  animation: text-third 3s infinite;
+}
+
+div.text-odometer-static {
+  margin: auto 0 auto 1.25rem;
+}
+      </style>
+
+      <div class="text-odometer-root">
+    <div class="text-odometer-static">
+    whoami 
+  </div>
+  <div class="text-odometer-container">
+    <div class="text-odometer-textWrapper">
+      <div class="odometer-text first">
+        Srinivas
+      </div>
+      <div class="odometer-text second">
+        Sri
+      </div>
+      <div class="odometer-text third">
+        Designer
+      </div>
+      <div class="odometer-text fourth">
+        Developer
+      </div>
+      <div class="odometer-text fifth">
+        Sri
+      </div>
+      <div class="odometer-text sixth">
+        Srinivas
+      </div>
+    </div>
+  </div>
+  
+
+</div>
+  
+
+    </div>
+  </foreignObject>
+</svg>
