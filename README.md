@@ -1,29 +1,77 @@
-<h2>Hey 🙏 &nbsp;I'm Sri  </h2>
-<br>
-I am a Full Stack Developer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. I do content on Design and Development.  I really enjoy learning languages and frameworks like Flutter and React Native, as well as work in Medium. I also enjoy wireframing, ui, ux, and design in general.
+# 👋 Hi, I’m Srinivas Rao (Sri)
 
-<h2>  </h2>
- 
-- 🔭 &nbsp;I’m currently working on something cool projects.
-- 👯 &nbsp;I’m looking to collaborate on front-end, back-end, IoT, machine Learning and deep-learning projects
-- 🤝 &nbsp;I’m looking for help with Backend Design
-- 💬 &nbsp;Ask me about Programming or Machine Learning or Internet Of Things
-- 📫 &nbsp;I am also a technical writer at Medium
+**Principal Engineer | Software Architect | Distributed Systems | Cloud | AI / LLM Engineering | Security Architecture | Cryptography**
 
+I’m a systems-focused engineer with deep experience building **scalable, secure, and high-performance platforms** across **cloud, distributed systems, and AI infrastructure**. I enjoy working close to the metal (C/C++), while also designing modern **AI-driven, cloud-native systems**.
 
-<h2>&nbsp;Technology Stack </h2>
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="32" height="32"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="32"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="32" height="32"/> </a> 
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="32" height="32"/> </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="32" height="32"/> </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="32" height="32"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="32" height="32"/> </a> 
-  </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="32" height="32"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="32" height="32"/> </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="32" height="32"/> </a> 
- </p>
+---
 
+## 🚀 What I Do
+
+- 🧠 **AI / LLM Engineering**
+  - LLM inference pipelines, agentic workflows, AI security & governance
+  - Prompt safety, memory isolation, model risk & compliance
+
+- 🏗️ **Distributed Systems & Cloud**
+  - High-scale backend systems, microservices, event-driven architectures
+  - AWS / GCP, containerization, orchestration, CI/CD
+
+- 🔐 **Security Architecture & Cryptography**
+  - Secure system design, TLS/OpenSSL internals, encryption & key management
+  - Static code analysis, security posture management, threat modeling
+
+- ⚙️ **Systems & Low-Level Programming**
+  - C / C++ system programming, Linux internals, networking (L2/L3)
+  - Concurrency, synchronization, performance optimization
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- C, C++, Go, Python, JavaScript
+
+**Systems & Backend**
+- Linux, POSIX, Networking, Multithreading
+- FastAPI, gRPC, REST, Event-driven systems
+
+**AI / ML**
+- LLMs, Agents, RAG, Vector Databases
+- Model security, governance, AI posture management
+
+**Cloud & DevOps**
+- AWS, Docker, Kubernetes
+- CI/CD, Observability, Reliability Engineering
+
+**Security**
+- OpenSSL, TLS, Cryptography
+- SAST / DAST, Secure SDLC, Threat Modeling
+
+---
+
+## 📌 Current Interests
+
+- AI Security & Governance Platforms  
+- Agent Authorization & Memory Safety  
+- Distributed LLM Inference Systems  
+- Secure-by-design Infrastructure  
+
+---
+
+## 🧠 Philosophy
+
+> *“Build systems that are secure by default, observable by design, and scalable without fear.”*
+
+I strongly believe **security, performance, and reliability** should be **first-class citizens**, not afterthoughts.
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/sraodev/
+- 🧑‍💻 GitHub: https://github.com/sraodev
+
+---
 <h2>:writing_hand:&nbsp;Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
