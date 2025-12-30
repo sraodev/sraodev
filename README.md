@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Srinivas Rao (Sri)
 
-**Principal Engineer | Software Architect | Distributed Systems | Cloud | AI / LLM Engineering | Security Architecture | Cryptography**
+** Builder & Creator | Principal/Staff Engineer | Software Architect | Distributed Systems | Cloud | AI/LLM Engineering | Agentic Automation | Workflow Orchestration | Security Architecture | Cryptography**
 
 I’m a systems-focused engineer with deep experience building **scalable, secure, and high-performance platforms** across **cloud, distributed systems, and AI infrastructure**. I enjoy working close to the metal (C/C++), while also designing modern **AI-driven, cloud-native systems**.
 
