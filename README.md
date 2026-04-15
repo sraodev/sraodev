@@ -4,7 +4,7 @@
 
 # 👋 Hi, I’m Srinivas Rao (Sri)
 
-**Principal Engineer · 10+ years** building **secure, scalable, high-performance systems** across **cloud, distributed infrastructure, and AI platforms**.
+**Principal Engineer · 15+ years** building **secure, scalable, high-performance systems** across **cloud, distributed infrastructure, and AI platforms**.
 
 I work close to the metal (C/C++, Linux internals, networking) and also design modern **AI-driven, cloud-native systems** — LLM inference, agentic workflows, and security architecture.
 
