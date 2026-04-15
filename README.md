@@ -54,27 +54,28 @@ I believe **security, performance, and reliability** should be **first-class cit
 
 ---
 
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/sraodev/
-- 🧑‍💻 GitHub: https://github.com/sraodev
-
----
-<h2>:writing_hand:&nbsp;Latest Blog Posts</h2>
+## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [The Android Booting process from Power On](https://medium.com/@srinivasrao.in/the-android-booting-process-from-power-on-c47ecbe60f03?source=rss-c68ee6a8a092------2)
 - [Raspberry Pi Headless Setup via Ethernet Cable](https://medium.com/@srinivasrao.in/raspberry-pi-headless-setup-via-ethernet-cable-7774d7a19f9a?source=rss-c68ee6a8a092------2)
 - [Booting ARM Linux on MPCore](https://medium.com/@srinivasrao.in/booting-arm-linux-on-mpcore-95db62dabf50?source=rss-c68ee6a8a092------2)
-<!-- BLOG-POST-LIST:END --> 
+<!-- BLOG-POST-LIST:END -->
 
- <h2>🔗 Connect with me</h2>
- <p align="left">
-<a href="https://twitter.com/sraodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sraodev" height="32" width="32" /></a>
-<a href="https://linkedin.com/in/sraodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sraodev" height="32" width="32" /></a>
-<a href="https://stackoverflow.com/users/srinivasrao.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="srinivasrao.in" height="32" width="32" /></a>
-<a href="https://medium.com/@srinivasrao.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@srinivasrao.in" height="32" width="32" /></a>
- <a href="https://dev.to/srao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="srao" height="32" width="32" /></a>
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sraodev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="32" width="32" /></a>
+  &nbsp;
+  <a href="https://twitter.com/sraodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="32" width="32" /></a>
+  &nbsp;
+  <a href="https://stackoverflow.com/users/srinivasrao.in" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="32" width="32" /></a>
+  &nbsp;
+  <a href="https://medium.com/@srinivasrao.in" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="32" width="32" /></a>
+  &nbsp;
+  <a href="https://dev.to/srao" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="32" width="32" /></a>
 </p>
 
  <br/>
