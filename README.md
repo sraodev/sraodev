@@ -15,6 +15,7 @@ I work close to the metal (C/C++, Linux internals, networking) and also design m
 ## 🚀 What I Do
 
 - 🧠 **AI / LLM Engineering** — LLM inference pipelines, agentic workflows, AI security & governance, prompt safety, memory isolation, model risk & compliance
+- 🛡️ **AI Agentic Security Posture Management (AI-SPM)** — Runtime posture management for agents, tool-use authorization, prompt-injection defense, model & data-flow visibility
 - 🏗️ **Distributed Systems & Cloud** — High-scale backend, microservices, event-driven architectures, AWS / GCP, containerization, orchestration, CI/CD
 - 🔐 **Security Architecture & Cryptography** — Secure system design, TLS/OpenSSL internals, encryption & key management, SAST/DAST, threat modeling
 - ⚙️ **Systems & Low-Level Programming** — C / C++, Linux internals, networking (L2/L3), concurrency, performance optimization
@@ -36,7 +37,7 @@ I work close to the metal (C/C++, Linux internals, networking) and also design m
 
 **Languages** — C, C++, Go, Python
 **Systems** — Linux internals, POSIX, Networking, Multithreading, gRPC
-**AI / LLM** — LLM inference, Agents, RAG, Vector DBs, AI governance
+**AI / LLM** — LLM inference, Agents, RAG, Vector DBs, AI governance, AI-SPM
 **Cloud** — AWS, Docker, Kubernetes, Observability
 **Security** — OpenSSL, TLS, Cryptography, SAST/DAST, Threat Modeling
 
@@ -44,8 +45,8 @@ I work close to the metal (C/C++, Linux internals, networking) and also design m
 
 ## 📌 Current Focus
 
-- 🛡️ AI Security & Governance Platforms
-- 🤖 Agent Authorization & Memory Safety
+- 🛡️ **AI Security & AI Agentic Security Posture Management (AI-SPM)**
+- 🤖 Agent Authorization, Tool-Use Policies & Memory Safety
 - ⚡ Distributed LLM Inference Systems
 - 🔐 Secure-by-design Infrastructure
 
