@@ -1,27 +1,25 @@
 # Srinivas Rao
 
-**Principal Engineer building AI-SPM — the security control plane for autonomous agents.**
+**Principal Engineer building secure AI, developer infrastructure, and open-source systems.**
 
-15+ years building secure systems across Linux, distributed infrastructure, and cloud platforms.
+For 15+ years, I have turned complex systems problems into practical products—from Linux and embedded platforms to cloud infrastructure and autonomous agents.
 
-## Secure agents that can act
+## Current focus
 
-AI agents hold credentials, use tools, retain memory, and make decisions. **AI Agentic Security Posture Management (AI-SPM)** makes every action:
+- **AI Agentic Security Posture Management (AI-SPM)** — making agent actions authorized, isolated, observable, and auditable
+- **[Oli — Open Lifecycle Intelligence →](https://github.com/sraodev/oli)** — centralized lifecycle intelligence for software systems, data pipelines, and enterprise operations
+- **Agent infrastructure** — identity, tool authorization, MCP security, runtime policy, memory isolation, and decision provenance
 
-- **Authorized** — least-privilege access to tools and data
-- **Isolated** — contained memory, credentials, and execution
-- **Observable** — continuous posture and runtime visibility
-- **Auditable** — clear provenance from decision to action
+## Explore the work
 
-## Building
+- [**Track AI security threats with Argus →**](https://github.com/sraodev/argus) — AI threat intelligence with source monitoring, classification, engineering context, and alerts
+- [**Build safer agent skills →**](https://github.com/sraodev/awesome-skills-cheatsheet) — a field guide for authoring, auditing, evaluating, and shipping portable agent skills
+- [**Explore the Universal Bluetooth SDK →**](https://github.com/sraodev/universal-bluetooth-sdk) — a Go daemon, CLI, MCP tools, and hardware-free demo for nearby communication
+- [**Build with SmartPod →**](https://github.com/sraodev/SmartPod) — a local-first smart-power and EV energy monitoring platform for ESP8266
+- [**Browse practical engineering references →**](https://github.com/sraodev/awesome-opensource-cheat-sheets) — maintained cheat sheets for AI, Linux, Git, Python, Docker, Kubernetes, and security
 
-### [Oli — Open Lifecycle Intelligence →](https://github.com/sraodev/oli)
+## Build with me
 
-Centralized lifecycle intelligence for software systems, data pipelines, and enterprise operations.
+I welcome contributors, creators, security engineers, and founders who care about useful, trustworthy technology.
 
-- [**Track AI security threats with Argus →**](https://github.com/sraodev/argus)
-- [**Build safer agent skills →**](https://github.com/sraodev/awesome-skills-cheatsheet)
-
-`agent identity` · `tool authorization` · `MCP security` · `prompt-injection defense` · `runtime policy` · `decision provenance`
-
-**Building or securing agentic systems? [Let's talk →](https://www.linkedin.com/in/sraodev/)**
+**Found something valuable? Star the project, open an issue, or [let's talk →](https://www.linkedin.com/in/sraodev/)**
