@@ -1,6 +1,6 @@
 # Srinivas Rao
 
-**Founder building the security control plane for autonomous AI agents.**
+**Principal Engineer building the security control plane for autonomous AI agents.**
 
 Principal Engineer with 15+ years across security, Linux, distributed systems, and cloud infrastructure.
 
